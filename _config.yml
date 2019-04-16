@@ -14,15 +14,15 @@ img_path: /danielsauceda.github.io/static/assets/img/blog  # url should be '/hom
 
 # author -- index page "about me" section
 author: Daniel J Sauceda  # change following line to your infomation.
-  name: GitHub  # Be used at blog posts' author.
+  name: Daniel  # Be used at blog posts' author.
   first_name: Daniel  # Be used at index page about me section.
   last_name: Sauceda  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: danielsauceda  # Leave blank if you don't have now
   linkedin_id: jarrekk # Leave blank if you don't have now
-  facebook_username: jiakunnj  # Leave blank if you don't have now
-  twitter_username: jiakun614  # Leave blank if you don't have now
-  email: me@jarrekk.com  # Leave blank if you don't have now
+  #facebook_username: jiakunnj  # Leave blank if you don't have now
+  #twitter_username: jiakun614  # Leave blank if you don't have now
+  email: danielsauceda34@gmail.com  # Leave blank if you don't have now
   cv: http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
@@ -31,11 +31,11 @@ author: Daniel J Sauceda  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Introduce myself will be here.  # Describe yourself.
+  desc: I am graduate student Introduce myself will be here.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
+#  name: jalpc
 
 # analytics
 ## google analytics
