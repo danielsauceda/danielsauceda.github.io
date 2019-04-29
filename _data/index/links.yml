@@ -1,18 +1,31 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+# - last_name: Name 1
+#   first_name:
+#   desc: CEO
+#   website: https://www.google.com
+#   email: ceo@google.com
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+# - last_name: Donate
+#   first_name: Jalpc
+#   desc: Support Jalpc
+#   website: http://www.jarrekk.com/donate/
+#   email: me@jarrekk.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+# - last_name: LN
+#   first_name: FN
+#   desc: COO
+#   website: https://github.com
+#   email: coo@google.com
+
+- last_name: Arroyave
+  first_name: Dr. Raymundo
+  desc: Principal Investigator (PI)
+  website: https://engineering.tamu.edu/mechanical/profiles/arroyave-raymundo.html
+  email: rarroyave@tamu.edu
+
+- last_name: University
+  first_name: Texas A&M
+  desc: 
+  website: https://www.tamu.edu/
+  email: 
+
