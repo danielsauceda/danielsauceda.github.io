@@ -153,15 +153,19 @@ h3, h4, h5 {
 }
 
 .navbar-default .landing_link a {
-  background: #3385FF;
+    // background: #3385FF;
+    background:  #500000;
   color: #fff;
   &:hover {
-    background: #3385FF !important;
+      background:  #500000 !important;
+      // background: #3385FF;
     color: #fff;
   }
   span.label {
     background: #fff;
-    color: #3385FF;
+    // color: #3385FF;
+    color: #500000;
+
   }
 }
 
@@ -227,7 +231,8 @@ body.canvas-menu .nav-header {
     a {
       &:focus, &:hover {
         background: #fff;
-        color: #3385FF;
+	// color: #3385FF;
+	  color: #500000;
       }
     }
     &.active {
