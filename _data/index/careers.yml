@@ -32,7 +32,7 @@
     detail: Texas A&M Engineering Department
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Assist supervisors with general lab operations. Maintain the office lab areas, Assist students with Labview, Lego MindStorms and class Projects
     i18n: company_b_desc
   date:
     detail: Jan - Dec 2013
@@ -47,7 +47,7 @@
     detail: Apple Tree Residential Appraising
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: "Assists the head appraiser in general tasks.\n Organize data gathered prior/during field work and prepare for head appraiser’s analysis. Log company billing information. Maintain office space and file organizaition."
     i18n: company_b_desc
   date:
     detail: Jul - Nov 2011; May - Aug 2012
@@ -56,4 +56,5 @@
     detail: Clerk
     i18n: company_b_job
   icon: fa-building
+
 
