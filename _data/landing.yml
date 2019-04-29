@@ -26,9 +26,9 @@
 
 - id: blog
   i18n: nav.blog
-  name: Blog
+  name: Reflection
   tpl: blog.html
-  page: blog/
+  page: reflection/
   css: testimonials navy-section
 
 - id: links
