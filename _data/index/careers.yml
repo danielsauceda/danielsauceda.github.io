@@ -4,7 +4,7 @@
     detail: Texas A&M Materials Science Department
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: Works atomistic VASP calculations for exploring thermo-mechanical properties of MAX phases. Maintaining and evolving TAMMAL code-base.
     i18n: company_a_desc
   date:
     detail: Jan 2018 - Present
@@ -18,7 +18,7 @@
     detail: Texas A&M Materials Science Department
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: I worked on implementing NIST Materials Data Curator System (MDCS) for use in Texas A&M. Implementing MSGalaxy for managing computational workflows.
     i18n: company_b_desc
   date:
     detail:  May 2013 - Dec 2017
