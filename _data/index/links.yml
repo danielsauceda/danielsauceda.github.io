@@ -17,14 +17,14 @@
 #   website: https://github.com
 #   email: coo@google.com
 
-- last_name: Arroyave
-  first_name: Dr. Raymundo
+- last_name: Dr. Raymundo
+  first_name: Arroyave
   desc: Principal Investigator (PI)
   website: https://engineering.tamu.edu/mechanical/profiles/arroyave-raymundo.html
   email: rarroyave@tamu.edu
 
-- last_name: University
-  first_name: Texas A&M
+- last_name: Texas A&M
+  first_name: University
   desc: 
   website: https://www.tamu.edu/
   email: 
