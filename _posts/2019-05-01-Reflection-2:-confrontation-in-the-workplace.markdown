@@ -4,7 +4,7 @@ title:  "Reflection 2: Confrontation with labmates (undergraduate)"
 date:   2019-05-01
 desc: "Dealing with an unproductive group member"
 keywords: "reflection,work,confrontation"
-categories: [Reflection,Life]
+categories: [Reflection,Essay,Life]
 tags: [Reflection,confrontation,undergrade]
 icon: book-open
 ---
