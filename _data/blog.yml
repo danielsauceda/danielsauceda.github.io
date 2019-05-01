@@ -3,23 +3,32 @@
   href: /reflection/
 
 # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
-- name: Python
-  href: /python/
+# - name: Python
+#   href: /python/
 
-- name: Linux
-  href: /linux/
+# - name: Linux
+#   href: /linux/
 
-- name: HTML
-  href: /html/
+# - name: HTML
+#   href: /html/
 
-- name: Database
-  href: /database/
+- name: Coding
+  href: /coding/
 
-- name: Mac
-  href: /mac/
+- name: Essays
+  href: /essays/
+
+# - name: Database
+#   href: /database/
+
+# - name: Mac
+#   href: /mac/
 
 - name: Life
   href: /life/
+
+- name: "Academic Activities"
+  href: /academic-activities/
 
 # Don't display donation page: change donation to off at file '_config.yml'
 - name: Donate
