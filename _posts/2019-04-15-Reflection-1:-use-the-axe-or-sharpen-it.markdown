@@ -4,7 +4,7 @@ title:  "Reflection 1: Use the Axe or Sharpen it"
 date:   2019-04-29
 desc: "How does a person spend perfecting a skill rather than implementing it"
 keywords: "Jekyll,gh-pages,website,blog,easy,reflection,axe"
-categories: [Reflection]
+categories: [Reflection,Life]
 tags: [Reflection,Blog]
 icon: book-open
 ---
