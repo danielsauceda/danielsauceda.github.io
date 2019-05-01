@@ -5,11 +5,12 @@
 #- src: landing/header_one.jpg
 #  title: first banner image
 
-- src: landing/conference_cover.jpg
-  title: TMS 2018 conference conver
 
 - src: landing/msen_logo_maroon.png
   title: MSEN logo
+
+- src: landing/conference_cover.jpg
+  title: TMS 2018 conference conver
 
 - src: landing/material_banner_1.png
   title: MSEN banner 1
