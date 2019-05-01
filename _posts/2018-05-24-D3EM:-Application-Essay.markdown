@@ -4,7 +4,7 @@ title:  "D3EM Essay"
 date:   2018-05-24
 desc: "D3EM Application Essay"
 keywords: "essay,D3EM,Reflection"
-categories: [Reflection]
+categories: [Reflection,Essays]
 tags: [D3EM,Essay]
 icon: book-open
 ---
